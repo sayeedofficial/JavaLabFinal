@@ -1,4 +1,4 @@
-// Design an applet which uses Card
+ // Design an applet which uses Card
 // layout with 3 Buttons. When the user
 // clicks on any button, the background
 // layout color must change.
@@ -8,7 +8,7 @@ import java.awt.event.*;
 import java.applet.*;
 
 public class Buttons extends Applet implements ActionListener {
-    
+
     Button redButton, greenButton, blueButton;
     Panel myPanel;
     CardLayout card1;

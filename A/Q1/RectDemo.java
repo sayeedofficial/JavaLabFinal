@@ -1,13 +1,4 @@
-// Write a program in Java with class
-// Rectangle with the data fields width,
-// length,area and color. The length, width
-// and area are of double type and color
-// is of stringtype. The methods are set_ length (),
-// set_width (), set_ color (), and find_ area ().
-// Create two object of Rectangle and compare their
-// area and color. If area and colorboth are the same
-// for the objects then display “Matching Rectangles”,
-// otherwisedisplay “Non matchingRectangle”
+
 
 import java.util.Scanner;
 
